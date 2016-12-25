@@ -1,0 +1,8 @@
+## Interface: 12000
+## Title: Charrge
+## Notes: Charge or Intercept (whatever possible)
+## Author: Danjo
+## DefaultState: enabled
+## SavedVariables: none
+## OptionalDeps: none
+Charrge.xml
