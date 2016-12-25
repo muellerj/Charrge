@@ -1,5 +1,5 @@
 <Bindings>
-	<Binding name="FURY" header="FURY">
+	<Binding name="CHARRGE" header="CHARRGE">
     Charrge();
 	</Binding>
 </Bindings>
