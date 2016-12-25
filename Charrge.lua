@@ -34,8 +34,6 @@ end
 function Charrge_OnLoad()
 	this:RegisterEvent("PLAYER_REGEN_ENABLED");
 	this:RegisterEvent("PLAYER_REGEN_DISABLED");
-	--this:RegisterEvent("PLAYER_ENTER_COMBAT");
-	--this:RegisterEvent("PLAYER_LEAVE_COMBAT");
   CharrgeCombat = nil;
 end
 
